@@ -6,7 +6,7 @@ Tag Creation will help you to bifrucate the mulitple forms data inside one Audie
 
 Here you can also modify user "subscribed" or "unsubscribed" or "cleaned" or "pending" based on your requirement.
 
-#Note: 
+# Note: 
 Do no forget to change your API key and Audience ID. Currently i have added dummy text.
 
 Mailchimp API Key
